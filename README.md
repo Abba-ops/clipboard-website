@@ -1,17 +1,23 @@
-# Learning Tailwind CSS Project
+# Tailwind CSS Project
 
-![Project Screenshot](https://i.ibb.co/ThrcQtL/Screenshot-11.png)
+![Project Screenshot](https://i.ibb.co/HT4VjwX/Screenshot-33.png)
 
-## Overview
+## Project Overview
 
-This project was developed while learning Tailwind CSS. It focuses on creating a stylish and responsive website using Tailwind CSS.
+This project showcases the use of Tailwind CSS to create a modern and responsive website.
+
+## Features
+
+- Utilizes Tailwind CSS utility classes for styling.
+- Responsive design to ensure compatibility across various devices.
+- Clean and organized project structure for easy maintenance.
 
 ## Usage
 
 To use the project:
 
 1. Clone the repository.
-2. Install dependencies with `npm install`.
-3. Run the project with `npm run watch`.
+2. Install dependencies using `npm install`.
+3. Run the project using `npm run watch`.
 
-Enjoy exploring and customizing the project as needed!
+Feel free to explore and customize the project to suit your needs!
